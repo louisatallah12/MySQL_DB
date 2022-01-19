@@ -19,7 +19,7 @@ namespace DM_BDD_ARISS_ATALLAH
             {
                 string connexionString = "SERVER=localhost;PORT=3306;" +
                                          "DATABASE=cooking;" +
-                                         "UID=root;PASSWORD=Djnmpdc12";
+                                         "UID=root;PASSWORD=****";
 
                 maConnexion = new MySqlConnection(connexionString);
 
