@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<liste_des_commandes>
+  <Fournisseur_legumes Num_Tel="0123456789">
+    <Nom_Produit>persil<Quantité_à_commander>91</Quantité_à_commander></Nom_Produit>
+  </Fournisseur_legumes>
+  <Fournisseur_viande Num_Tel="0150515253">
+    <Nom_Produit>poulet<Quantité_à_commander>1</Quantité_à_commander></Nom_Produit>
+  </Fournisseur_viande>
+</liste_des_commandes>
